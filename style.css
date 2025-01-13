@@ -10,7 +10,7 @@ body, html {
     min-height: 100vh;
     padding-top: 5px;
     padding-bottom: 5px;
-    overflow: hidden;
+    overflow-x: hidden;
 }
 .poster {
     text-align: center;
@@ -118,7 +118,7 @@ body, html {
     .live{
     position: absolute;
     left:40px;
-    top: 275px;
+    top: 235px;
 }
 .poster h1, .live {
     font-size: 7rem;
